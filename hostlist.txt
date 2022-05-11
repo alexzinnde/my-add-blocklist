@@ -13,7 +13,7 @@ notify.bugsnag.com
 analytics-sg.tiktok.com
 logbak.hicloud.com
 analytics-api.samsunghealthcn.com
-freshmarketer.com/
+freshmarketer.com
 w1.luckyorange.com
 api.bugsnag.com
 app.bugsnag.com
@@ -42,3 +42,12 @@ logbak.hicloud.com
 samsung-com.112.2o7.net
 analytics-api.samsunghealthcn.com
 supportmetrics.apple.com
+advertising.twitter.com
+samsung-com.112.2o7.net
+analytics-api.samsunghealthcn.com
+supportmetrics.apple.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+logbak.hicloud.com
