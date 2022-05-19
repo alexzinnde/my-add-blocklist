@@ -51,3 +51,7 @@
 0.0.0.0   logservice1.hicloud.com
 0.0.0.0   metrics-dra.dt.hicloud.com
 0.0.0.0   logbak.hicloud.com
+0.0.0.0   data.mistat.india.xiaomi.com
+0.0.0.0   data.mistat.rus.xiaomi.com
+0.0.0.0   amazonclix.com
+
