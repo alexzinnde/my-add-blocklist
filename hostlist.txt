@@ -55,4 +55,4 @@
 0.0.0.0   data.mistat.rus.xiaomi.com
 0.0.0.0   amazonclix.com
 0.0.0.0   bigdata.ssp.samsung.com
-
+0.0.0.0   amazonaax.com
